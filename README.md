@@ -52,7 +52,7 @@
   <p>Las 7R nos ayudan a proteger el medio ambiente mediante acciones responsables. Aquí te explicamos cada una con imágenes para que lo entiendas mejor:</p>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\5-ideas-creativas-para-reciclar-y-cuidar-el-medio-ambiente.jpg" alt="Rediseñar">
+    <img src="https://s1.significados.com/foto/reciclaje-is-cke.jpg?class=article" alt="Rediseñar">
     <div class="r-text">
       <h2>1. Rediseñar</h2>
       <p>Crear productos teniendo en cuenta su impacto ambiental, haciéndolos más sostenibles desde su diseño.</p>
@@ -60,7 +60,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\images (4).jpeg" alt="Reducir">
+    <img src="https://greenpaper.com/wp/wp-content/uploads/2022/03/tipos-de-reciclaje-imagen-destacada.jpg" alt="Reducir">
     <div class="r-text">
       <h2>2. Reducir</h2>
       <p>Disminuir el consumo de recursos y evitar la generación de residuos innecesarios.</p>
@@ -68,7 +68,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\maxresdefault.jpg" alt="Reutilizar">
+    <img src="https://www.concienciaeco.com/wp-content/uploads/2015/05/La-historia-del-reciclaje.png" alt="Reutilizar">
     <div class="r-text">
       <h2>3. Reutilizar</h2>
       <p>Dar un nuevo uso a objetos que aún pueden servir, en vez de desecharlos.</p>
@@ -76,7 +76,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\Editorial_Web_Rev92CZ.jpg" alt="Reparar">
+    <img src="https://www.leonardo-gr.com/wp-content/uploads/2022/05/xresiduo.jpg.pagespeed.ic.yOvZttzY7c.webp" alt="Reparar">
     <div class="r-text">
       <h2>4. Reparar</h2>
       <p>Arreglar productos dañados en lugar de desecharlos, alargando su vida útil.</p>
@@ -84,7 +84,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\3904781.png" alt="Renovar">
+    <img src="https://gestionderesiduosonline.com/wp-content/uploads/2015/06/logo3izq.png" alt="Renovar">
     <div class="r-text">
       <h2>5. Renovar</h2>
       <p>Actualizar productos o sistemas para que funcionen mejor y contaminen menos.</p>
@@ -92,7 +92,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\Diseño-sin-título-81.jpg" alt="Recuperar">
+    <img src="https://gtaambiental.com/wp-content/uploads/7rs-de-la-sostenibilidad-gta-ambiental-blog-feat-img-88.jpg" alt="Recuperar">
     <div class="r-text">
       <h2>6. Recuperar</h2>
       <p>Recoger materiales útiles de los residuos para aprovecharlos de nuevo.</p>
@@ -100,7 +100,7 @@
   </div>
 
   <div class="r-card">
-    <img src="C:\Users\dell\Downloads\images (5).jpeg" alt="Reciclar">
+    <img src="https://www.defensa.gob.es/medioambiente/Galerias/formacion/img/1521675203_12__Politica_Ambiental.jpg"  alt="Reciclar">
     <div class="r-text">
       <h2>7. Reciclar</h2>
       <p>Transformar los residuos en nuevos productos para evitar contaminar el ambiente.</p>
