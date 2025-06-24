@@ -109,6 +109,6 @@
 
   <p style="text-align:center; font-weight: bold;">¡Cada acción cuenta para cuidar nuestro planeta! 🌍</p>
 
-<a href="javascript:history.back()">Volver atrás</a>
+<a href="https://313n.github.io/31N/" > Volver atrás</a>
 </body>
 </html>
