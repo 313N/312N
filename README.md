@@ -76,7 +76,7 @@
   </div>
 
   <div class="r-card">
-    <img src="https://www.leonardo-gr.com/wp-content/uploads/2022/05/xresiduo.jpg.pagespeed.ic.yOvZttzY7c.webp" alt="Reparar">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuAeDyowWup2v5eIa0IWDj0RKRe32gfUrjEw&s=" alt="Reparar">
     <div class="r-text">
       <h2>4. Reparar</h2>
       <p>Arreglar productos dañados en lugar de desecharlos, alargando su vida útil.</p>
@@ -92,7 +92,7 @@
   </div>
 
   <div class="r-card">
-    <img src="https://gtaambiental.com/wp-content/uploads/7rs-de-la-sostenibilidad-gta-ambiental-blog-feat-img-88.jpg" alt="Recuperar">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvU1BjVUxPRLRko2-yP7-8NgkCFGDfS0dmDRT03KFsWg&s=" alt="Recuperar">
     <div class="r-text">
       <h2>6. Recuperar</h2>
       <p>Recoger materiales útiles de los residuos para aprovecharlos de nuevo.</p>
